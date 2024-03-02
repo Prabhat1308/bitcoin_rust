@@ -1,0 +1,1 @@
+{"rustc":174346706036672835,"features":"[\"secp-recovery\", \"std\"]","target":2297296889237502566,"profile":13178609178403335023,"path":2706897785985048328,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/bitcoin-53b159665c3d26b6/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":14336522636056600485,"config":2202906307356721367,"compile_kind":0}

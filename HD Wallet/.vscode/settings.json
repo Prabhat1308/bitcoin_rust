@@ -1,0 +1,7 @@
+{
+    "errorLens.enabled": true,
+    "errorLens.delay": 200,
+    "errorLens.fontStyle": "italic",
+    "errorLens.gutterIconsEnabled": true,
+    "errorLens.gutterIconSize": "100%"
+}

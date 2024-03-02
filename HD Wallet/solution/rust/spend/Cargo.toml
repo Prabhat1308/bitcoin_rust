@@ -1,0 +1,15 @@
+[package]
+name = "spend"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+balance = {path = "../balance"}
+bitcoincore-rpc = "0.18.0"
+bitcoin = "0.31.1"
+byteorder = "1.4.3"
+libsecp256k1 = "0.7.1"
+hex = "0.4.2" 
+serde_json = "1.0.64"
+serde = "1.0"
