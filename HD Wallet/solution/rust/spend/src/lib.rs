@@ -94,6 +94,7 @@ fn get_p2wsh_program(script: &[u8], version: Option<u32>) -> Vec<u8> {
 // Given an outpoint, return a serialized transaction input spending it
 // Use hard-coded defaults for sequence and scriptSig
 fn input_from_utxo(txid: &[u8], index: u32) -> Vec<u8> {
+    
     let mut input = Vec::new();
 
     //txid
